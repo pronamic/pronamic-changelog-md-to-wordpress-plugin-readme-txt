@@ -20,6 +20,20 @@ To keep this library simple, two markers are needed in `CHANGELOG.md` and `readm
 <!-- End changelog -->
 ```
 
+### Composer script
+
+```
+	"scripts": {
+		"changelog": "Pronamic\\ChangelogMdToWordPressPluginReadmeTxt\\Synchronizer::run"
+	}
+```
+
+```
+	"scripts": {
+		"changelog": "vendor/bin/pronamic-changelog-md-to-wordpress-plugin-readme-txt"
+	}
+```
+
 ## Exit code
 
 | Exit code | Description |
