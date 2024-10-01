@@ -53,6 +53,12 @@ This is the long description.  No limit, and you can use Markdown (as well as in
 ⬆️
 ```
 
+If you don't want to include the complete `CHANGELOG.md` in your `readme.txt` you can move the `<!-- End changelog -->` marker to the desired position. Additionally you can include a text below the `<!-- End changelog -->` marker in the `readme.txt` file, for example:
+
+```
+[See changelog for all versions.](https://github.com/…/blob/main/CHANGELOG.md)
+```
+
 ### Composer script
 
 ```json
