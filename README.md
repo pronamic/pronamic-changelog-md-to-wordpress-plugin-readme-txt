@@ -60,13 +60,13 @@ This is the long description.  No limit, and you can use Markdown (as well as in
 
 ### Composer script
 
-```
+```json
 	"scripts": {
 		"changelog": "Pronamic\\ChangelogMdToWordPressPluginReadmeTxt\\Synchronizer::run"
 	}
 ```
 
-```
+```json
 	"scripts": {
 		"changelog": "vendor/bin/pronamic-changelog-md-to-wordpress-plugin-readme-txt"
 	}
