@@ -4,7 +4,7 @@
     "license": "GPL-2.0-or-later",
     "autoload": {
         "psr-4": {
-            "Pronamic\\ChangelogMdToWordpressPluginReadmeTxt\\": "src/"
+            "Pronamic\\ChangelogMdToWordPressPluginReadmeTxt\\": "src/"
         }
     },
     "authors": [
@@ -12,6 +12,9 @@
             "name": "Pronamic",
             "email": "info@pronamic.eu"
         }
+    ],
+    "bin": [
+        "bin/pronamic-changelog-md-to-wordpress-plugin-readme-txt"
     ],
     "require": {}
 }
