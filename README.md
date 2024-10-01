@@ -47,12 +47,7 @@ This is the long description.  No limit, and you can use Markdown (as well as in
 ⬇️
 <!-- Start changelog -->
 
-= 1.0 =
-* A change since the previous version.
-* Another change.
-
-= 0.5 =
-* List versions from most recent at top to oldest at bottom.
+ℹ️ This is where the content from CHANGELOG.md is inserted.
 
 <!-- End changelog -->
 ⬆️
