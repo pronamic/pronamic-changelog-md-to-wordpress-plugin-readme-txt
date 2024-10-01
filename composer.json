@@ -16,5 +16,8 @@
 	"bin": [
 		"bin/pronamic-changelog-md-to-wordpress-plugin-readme-txt"
 	],
+	"config": {
+		"sort-packages": true
+	},
 	"require": {}
 }
